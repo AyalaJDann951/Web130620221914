@@ -197,7 +197,7 @@ input[type = "submit"]{
 }
 
 input[type = "submit"]:hover{
-  border-color: purple;
+  border-color: #0059FF;
   transition: .5s;
 }
 
