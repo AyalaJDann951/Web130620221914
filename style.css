@@ -27,6 +27,10 @@ body{
   box-sizing: border-box;
 }
 
+.titulo{
+  color: blue;
+}
+
 form .username{
   position: relative;
   border-bottom: 2px solid #adadad;
